@@ -30,7 +30,7 @@ void input(int ac, char *av[])
 		fin.open("D:\\.DATA\\Desktop\\input.txt",ios::in);
 		fout.open("D:\\.DATA\\Desktop\\output.txt",ios::out);
 		multiSolution = true; unlimited = false;
-		solutions = 100;
+		solutions = 10000;
 	}
 	else*/ if (ac != 9 && ac != 10 && ac != 11)
 	{
