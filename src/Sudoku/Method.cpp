@@ -9,7 +9,7 @@ extern int ***arr;
 extern char inpath[1000], outpath[1000];
 extern int order, quantity, solutions;
 extern bool multiSolution, unlimited;
-void fileoutput(int **arr, int m)
+void file_output(int **arr, int m)
 {
 	for (int i = 0; i != m; ++i)
 	{
@@ -24,15 +24,16 @@ void fileoutput(int **arr, int m)
 }
 void input(int ac, char *av[])
 {
-	/*if (ac < 2)
+	double o, q;
+	if (ac < 2)
 	{
-		order = 5 ,quantity = 1;
+		o = 5 ,q = 1;
 		fin.open("D:\\.DATA\\Desktop\\input.txt",ios::in);
 		fout.open("D:\\.DATA\\Desktop\\output.txt",ios::out);
 		multiSolution = true; unlimited = false;
 		solutions = 10000;
 	}
-	else*/ if (ac != 9 && ac != 10 && ac != 11)
+	else if (ac != 9 && ac != 10 && ac != 11)
 	{
 		printf(Error_parameter1);
 		printf(Std_form1), printf(Std_form2), printf(Std_form3), printf(Std_form);
@@ -47,8 +48,8 @@ void input(int ac, char *av[])
 			i = 1;
 			while (i < ac - 1)
 			{
-				if (strcmp(av[i], _m) == 0)order = atoi(av[i + 1]), ord = true;
-				else	if (strcmp(av[i], _n) == 0)quantity = atoi(av[i + 1]), qua = true;
+				if (strcmp(av[i], _m) == 0)o = atoi(av[i + 1]), ord = true;
+				else	if (strcmp(av[i], _n) == 0)q = atoi(av[i + 1]), qua = true;
 				else	if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
 				else	if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
 				++i;
@@ -60,8 +61,8 @@ void input(int ac, char *av[])
 			i = 0;
 			while (i < ac - 1)
 			{
-				if (strcmp(av[i], _m) == 0)order = atoi(av[i + 1]), ord = true;
-				else	if (strcmp(av[i], _n) == 0)quantity = atoi(av[i + 1]), qua = true;
+				if (strcmp(av[i], _m) == 0)o = atoi(av[i + 1]), ord = true;
+				else	if (strcmp(av[i], _n) == 0)q = atoi(av[i + 1]), qua = true;
 				else	if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
 				else	if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
 				else	if (strcmp(av[i], _s) == 0)muls = true;
@@ -79,8 +80,8 @@ void input(int ac, char *av[])
 			i = 0;
 			while (i < ac - 1)
 			{
-				if (strcmp(av[i], _m) == 0)order = atoi(av[i + 1]), ord = true;
-				else	if (strcmp(av[i], _n) == 0)quantity = atoi(av[i + 1]), qua = true;
+				if (strcmp(av[i], _m) == 0)o = atoi(av[i + 1]), ord = true;
+				else	if (strcmp(av[i], _n) == 0)q = atoi(av[i + 1]), qua = true;
 				else	if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
 				else	if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
 				else	if (strcmp(av[i], _s) == 0)slt = atoi(av[i + 1]), muls = true;
@@ -112,53 +113,59 @@ void input(int ac, char *av[])
 		fin.open(inpath, ios::in);
 		fout.open(outpath, ios::out);
 	}
-if (order < 3 || order>9)
-{
-	printf(Error_order);
-	exit(1);
-}
-if (quantity < 1)
-{
-	printf(Error_quantity);
-	exit(1);
-}
-if (!fin)
-{
-	printf(Error_infile, inpath);
-	printf(Tip_check_f);
-	printf(Tip_file_length);
-	exit(1);
-}
-if (order > 6 && quantity > 20)printf(Tip_deal_wait1);
-arr = new int**[quantity];
-for (int i = 0; i != quantity; ++i)
-{
-	arr[i] = new int*[order];
-	for (int j = 0; j != order; ++j)
+	order = int(o), quantity = int(q);
+	if (double(order) != o || double(quantity) != q)
 	{
-		arr[i][j] = new int[order];
-		for (int f = 0; f != order; ++f)
+		printf(Warn_float);
+		exit(1);
+	}
+	if (order < 3 || order>9)
+	{
+		printf(Error_order);
+		exit(1);
+	}
+	if (quantity < 1)
+	{
+		printf(Error_quantity);
+		exit(1);
+	}
+	if (!fin)
+	{
+		printf(Error_infile, inpath);
+		printf(Tip_check_f);
+		printf(Tip_file_length);
+		exit(1);
+	}
+	if (order > 6 && quantity > 20)printf(Tip_deal_wait1);
+	arr = new int**[quantity];
+	for (int i = 0; i != quantity; ++i)
+	{
+		arr[i] = new int*[order];
+		for (int j = 0; j != order; ++j)
 		{
-			fin >> arr[i][j][f];
-			if (fin.eof())
+			arr[i][j] = new int[order];
+			for (int f = 0; f != order; ++f)
 			{
-				printf(Error_read_eof), printf(Tip_check_s, order, quantity);
-				exit(1);
-			}
-			if (fin.fail())
-			{
-				printf(Error_file_input, i + 1, j + 1, f + 1);
-				exit(1);
-			}
-			if (arr[i][j][f]<0 || arr[i][j][f]>order)
-			{
-				printf(Error_input_number, i + 1, j + 1, f + 1, order);
-				printf(Tip_check_order);
-				exit(1);
+				fin >> arr[i][j][f];
+				if (fin.eof())
+				{
+					printf(Error_read_eof), printf(Tip_check_s, order, quantity);
+					exit(1);
+				}
+				if (fin.fail())
+				{
+					printf(Error_file_input, i + 1, j + 1, f + 1);
+					exit(1);
+				}
+				if (arr[i][j][f]<0 || arr[i][j][f]>order)
+				{
+					printf(Error_input_number, i + 1, j + 1, f + 1, order);
+					printf(Tip_check_order);
+					exit(1);
+				}
 			}
 		}
 	}
-}
 }
 void finish()
 {
@@ -173,4 +180,9 @@ void finish()
 			}
 		delete arr;
 	}
+}
+void file_unsolved()
+{
+	fout << Tip_koe_unsolved;
+	fout << endl;
 }

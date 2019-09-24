@@ -6,7 +6,7 @@ extern bool multiSolution, unlimited;
 extern int solutions;
 extern fstream fout;
 int rest_answer;
-Koe::Koe(int k, int **array) :solved(false), divided(false)
+Koe::Koe(int k, int **array) :solved(false), divided(false),no_solutions(false)
 {
 	max = k;
 	rest_answer = solutions;
@@ -143,7 +143,7 @@ int Koe::deduce(queue <int> s_x, queue <int> s_y)			//深度搜索解
 	{
 		//printf(Tip_koe_solved);
 		//display();								//找到解显示
-		fileoutput(number, max);
+		file_output(number, max);
 		++answer;
 		--rest_answer;
 		solved = true;
@@ -156,8 +156,9 @@ int Koe::deduce(queue <int> s_x, queue <int> s_y)			//深度搜索解
 void Koe::start()
 {
 	printf(Tip_deal_wait2);
+	if (no_solutions)return;
 	int answers = deduce(space_x, space_y);
-	if (!solved)printf(Tip_koe_unsolved), exit(1);
+	if (!solved)printf(Tip_koe_unsolved),file_unsolved();
 	if (multiSolution and !unlimited)						//多解且限制
 	{
 		if (answers < solutions)fout << Tip_koe_ans1_1 << answers << Tip_koe_ans1_2;
@@ -183,7 +184,7 @@ void Koe::check()											//搜索前检查
 			if (number[i][j] == 0)
 			{
 				available(i, j, rest);
-				if (rest.empty())printf(Error_fake_sudoku, i + 1, j + 1), printf(Tip_check_content), exit(1);
+				if (rest.empty())printf(Error_fake_sudoku, i + 1, j + 1), printf(Tip_check_content), no_solutions=true;
 				rest = empty;
 				continue;
 			}

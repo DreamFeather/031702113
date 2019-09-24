@@ -8,7 +8,7 @@ class Koe										//宫格
 	int ***block, block_x, block_y;				//划分块
 	double div_x, div_y;						//划分系数
 	queue <int> space_x, space_y;				//待填数字位置
-	bool solved, divided;						//是否找到解，是否划分
+	bool solved,no_solutions, divided;			//是否找到解，是否无解，是否划分
 public:
 	Koe(int, int **);							//初始化
 	int deduce(queue <int> s_x, queue <int> s_y);	//推算（深度优先）
