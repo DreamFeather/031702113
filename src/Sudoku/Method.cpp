@@ -172,12 +172,12 @@ void input(int ac, char *av[])
 			arr[i][j] = new int[order];
 			for (int f = 0; f != order; ++f)
 			{
-				fin >> arr[i][j][f];
 				if (fin.eof())
 				{
 					printf(Error_read_eof), printf(Tip_check_s, order, quantity);
 					exit(1);
 				}
+				fin >> arr[i][j][f];
 				if (fin.fail())
 				{
 					printf(Error_file_input, i + 1, j + 1, f + 1);
