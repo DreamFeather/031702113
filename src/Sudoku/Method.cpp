@@ -22,9 +22,17 @@ void file_output(int **arr, int m)
 	}
 	fout << "\n";
 }
+bool check_float(char *x)
+{
+	int i(0);
+	while (x[i] != '\0')
+	{
+		if (x[i] == '.'||x[i++]=='/')return true;
+	}
+	return false;
+}
 void input(int ac, char *av[])
 {
-	double o, q;
 	/*if (ac < 2)
 	{
 		o = 5 ,q = 1;
@@ -48,8 +56,16 @@ void input(int ac, char *av[])
 			i = 1;
 			while (i < ac - 1)
 			{
-				if (strcmp(av[i], _m) == 0)o = atoi(av[i + 1]), ord = true;
-				else	if (strcmp(av[i], _n) == 0)q = atoi(av[i + 1]), qua = true;
+				if (strcmp(av[i], _m) == 0)
+				{
+					if (check_float(av[i + 1]))printf(Warn_float), exit(1);
+					order = atoi(av[i + 1]), ord = true;
+				}
+				else	if (strcmp(av[i], _n) == 0)
+				{
+					if (check_float(av[i + 1]))printf(Warn_float), exit(1);
+					quantity = atoi(av[i + 1]), qua = true;
+				}
 				else	if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
 				else	if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
 				++i;
@@ -61,8 +77,16 @@ void input(int ac, char *av[])
 			i = 0;
 			while (i < ac - 1)
 			{
-				if (strcmp(av[i], _m) == 0)o = atoi(av[i + 1]), ord = true;
-				else	if (strcmp(av[i], _n) == 0)q = atoi(av[i + 1]), qua = true;
+				if (strcmp(av[i], _m) == 0)
+				{
+					if (check_float(av[i + 1]))printf(Warn_float), exit(1);
+					order = atoi(av[i + 1]), ord = true;
+				}
+				else	if (strcmp(av[i], _n) == 0)
+				{
+					if (check_float(av[i + 1]))printf(Warn_float), exit(1);
+					quantity = atoi(av[i + 1]), qua = true;
+				}
 				else	if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
 				else	if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
 				else	if (strcmp(av[i], _s) == 0)muls = true;
@@ -80,8 +104,16 @@ void input(int ac, char *av[])
 			i = 0;
 			while (i < ac - 1)
 			{
-				if (strcmp(av[i], _m) == 0)o = atoi(av[i + 1]), ord = true;
-				else	if (strcmp(av[i], _n) == 0)q = atoi(av[i + 1]), qua = true;
+				if (strcmp(av[i], _m) == 0)
+				{
+					if (check_float(av[i + 1]))printf(Warn_float), exit(1);
+					order = atoi(av[i + 1]), ord = true;
+				}
+				else	if (strcmp(av[i], _n) == 0)
+				{
+					if (check_float(av[i + 1]))printf(Warn_float), exit(1);
+					quantity = atoi(av[i + 1]), qua = true;
+				}
 				else	if (strcmp(av[i], _in) == 0)strcpy_s(inpath, av[i + 1]), ipa = true;
 				else	if (strcmp(av[i], _out) == 0)strcpy_s(outpath, av[i + 1]), opa = true;
 				else	if (strcmp(av[i], _s) == 0)slt = atoi(av[i + 1]), muls = true;
@@ -112,12 +144,6 @@ void input(int ac, char *av[])
 		}
 		fin.open(inpath, ios::in);
 		fout.open(outpath, ios::out);
-	}
-	order = int(o), quantity = int(q);
-	if (double(order) != o || double(quantity) != q)
-	{
-		printf(Warn_float);
-		exit(1);
 	}
 	if (order < 3 || order>9)
 	{
