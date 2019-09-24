@@ -25,7 +25,7 @@ void file_output(int **arr, int m)
 void input(int ac, char *av[])
 {
 	double o, q;
-	if (ac < 2)
+	/*if (ac < 2)
 	{
 		o = 5 ,q = 1;
 		fin.open("D:\\.DATA\\Desktop\\input.txt",ios::in);
@@ -33,7 +33,7 @@ void input(int ac, char *av[])
 		multiSolution = true; unlimited = false;
 		solutions = 10000;
 	}
-	else if (ac != 9 && ac != 10 && ac != 11)
+	else*/ if (ac != 9 && ac != 10 && ac != 11)
 	{
 		printf(Error_parameter1);
 		printf(Std_form1), printf(Std_form2), printf(Std_form3), printf(Std_form);
