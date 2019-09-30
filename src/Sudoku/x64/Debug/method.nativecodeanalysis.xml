@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>“arr”的局部声明遮蔽了此前位于“8”行(“d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku\method.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>file_output</FUNCTION>
+    <DECORATED>?file_output@@YAXPEAPEAHH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>method.cpp</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26461</DEFECTCODE>
+    <DESCRIPTION>The pointer argument 'arr' for function 'file_output' can be marked as a pointer to const (con.3).</DESCRIPTION>
+    <FUNCTION>file_output</FUNCTION>
+    <DECORATED>?file_output@@YAXPEAPEAHH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26429</DEFECTCODE>
+    <DESCRIPTION>Symbol 'arr' is never tested for nullness, it can be marked as not_null (f.23).</DESCRIPTION>
+    <FUNCTION>file_output</FUNCTION>
+    <DECORATED>?file_output@@YAXPEAPEAHH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>file_output</FUNCTION>
+    <DECORATED>?file_output@@YAXPEAPEAHH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>file_output</FUNCTION>
+    <DECORATED>?file_output@@YAXPEAPEAHH@Z</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26461</DEFECTCODE>
+    <DESCRIPTION>The pointer argument 'x' for function 'check_float' can be marked as a pointer to const (con.3).</DESCRIPTION>
+    <FUNCTION>check_float</FUNCTION>
+    <DECORATED>?check_float@@YA_NPEAD@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26429</DEFECTCODE>
+    <DESCRIPTION>Symbol 'x' is never tested for nullness, it can be marked as not_null (f.23).</DESCRIPTION>
+    <FUNCTION>check_float</FUNCTION>
+    <DECORATED>?check_float@@YA_NPEAD@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'check_float' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>check_float</FUNCTION>
+    <DECORATED>?check_float@@YA_NPEAD@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>check_float</FUNCTION>
+    <DECORATED>?check_float@@YA_NPEAD@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>check_float</FUNCTION>
+    <DECORATED>?check_float@@YA_NPEAD@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>check_float</FUNCTION>
+    <DECORATED>?check_float@@YA_NPEAD@Z</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'av': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_parameter1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form3': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>65</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_m': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>64</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>64</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_n': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_in': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_out': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>70</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Warn_float': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>67</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>61</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Warn_float': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>42</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_parameter2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>87</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>106</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form3': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>125</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_m': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_n': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_in': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>91</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>91</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_out': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>92</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>92</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_s': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>91</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>90</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Warn_float': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>88</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>82</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Warn_float': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>83</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>97</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_s': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>51</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_parameter2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>77</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>96</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>115</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form3': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>134</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_m': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>112</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>112</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_n': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_in': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_out': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_s': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>118</LINE>
+      <COLUMN>46</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>45</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Warn_float': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>109</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>109</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Warn_float': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>110</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>51</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_parameter2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>77</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>96</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>115</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form3': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>134</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>131</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_slt': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_s': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_in': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_out': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>139</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>139</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_m': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression '_n': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>141</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'inpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>141</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>145</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'inpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>150</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_order': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>155</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_quantity': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>160</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_infile': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>160</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'inpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>161</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_check_f': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>162</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_file_length': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>165</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_deal_wait1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>169</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>177</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_read_eof': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>177</LINE>
+      <COLUMN>35</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_check_s': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>180</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>180</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>180</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>183</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_file_input': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>186</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>186</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>186</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>186</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>186</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>186</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>188</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_input_number': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>189</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_check_order': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>143</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_same_path': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>143</LINE>
+      <COLUMN>34</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_check_f': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_outfile': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>139</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_outfile': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>139</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_outfile': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>62</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_outfile': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>137</LINE>
+      <COLUMN>61</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>37</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_outfile': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Std_form': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>input</FUNCTION>
+    <DECORATED>?input@@YAXHQEAPEAD@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>207</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>207</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>198</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>201</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>196</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'finish' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>207</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 3' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>method.cpp</FILENAME>
+        <LINE>207</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>method.cpp</FILENAME>
+        <LINE>198</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 2' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>method.cpp</FILENAME>
+        <LINE>205</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 1' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>method.cpp</FILENAME>
+        <LINE>204</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>201</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>finish</FUNCTION>
+    <DECORATED>?finish@@YAXXZ</DECORATED>
+    <FUNCLINE>196</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>method.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_unsolved': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>file_unsolved</FUNCTION>
+    <DECORATED>?file_unsolved@@YAXXZ</DECORATED>
+    <FUNCLINE>210</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

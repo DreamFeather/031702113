@@ -110,7 +110,7 @@ Koe::~Koe()
 			if (block[i] != NULL)
 			{
 				for (int j = 0; j != block_y; ++j)
-					if (number[j] != NULL)
+					if (block[i][j] != NULL)
 						delete block[i][j];
 				delete block[i];
 			}

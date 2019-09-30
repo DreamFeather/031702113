@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26426</DEFECTCODE>
+    <DESCRIPTION>Global initializer calls a non-constexpr function 'std::basic_fstream&lt;char,std::char_traits&lt;char&gt; &gt;::basic_fstream&lt;char,std::char_traits&lt;char&gt; &gt;' (i.22).</DESCRIPTION>
+    <FUNCTION>`dynamic initializer for 'fin''</FUNCTION>
+    <DECORATED>??__Efin@@YAXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26426</DEFECTCODE>
+    <DESCRIPTION>Global initializer calls a non-constexpr function 'std::basic_fstream&lt;char,std::char_traits&lt;char&gt; &gt;::basic_fstream&lt;char,std::char_traits&lt;char&gt; &gt;' (i.22).</DESCRIPTION>
+    <FUNCTION>`dynamic initializer for 'fout''</FUNCTION>
+    <DECORATED>??__Efout@@YAXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26426</DEFECTCODE>
+    <DESCRIPTION>Global initializer calls a non-constexpr function 'std::basic_fstream&lt;char,std::char_traits&lt;char&gt; &gt;::`vbase destructor'' (i.22).</DESCRIPTION>
+    <FUNCTION>`dynamic atexit destructor for 'fout''</FUNCTION>
+    <DECORATED>??__Ffout@@YAXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26426</DEFECTCODE>
+    <DESCRIPTION>Global initializer calls a non-constexpr function 'std::basic_fstream&lt;char,std::char_traits&lt;char&gt; &gt;::`vbase destructor'' (i.22).</DESCRIPTION>
+    <FUNCTION>`dynamic atexit destructor for 'fin''</FUNCTION>
+    <DECORATED>??__Ffin@@YAXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>18</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'argv': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>24</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_attan_ans1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_attan_ans2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>52</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_attan_ans3': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_checking': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_scheduled': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_data_output': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'outpath': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>sudoku.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_finished': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>18</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

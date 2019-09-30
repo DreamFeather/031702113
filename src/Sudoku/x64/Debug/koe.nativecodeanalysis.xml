@@ -1,0 +1,2461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>68</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Koe::block' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Koe::div_x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Koe::div_y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>9</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26429</DEFECTCODE>
+    <DESCRIPTION>Symbol 'array' is never tested for nullness, it can be marked as not_null (f.23).</DESCRIPTION>
+    <FUNCTION>Koe::{ctor}</FUNCTION>
+    <DECORATED>??0Koe@@QEAA@HPEAPEAH@Z</DECORATED>
+    <FUNCLINE>9</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'm' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>50</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>50</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'k' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>50</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::initial_block</FUNCTION>
+    <DECORATED>?initial_block@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>65</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::display</FUNCTION>
+    <DECORATED>?display@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>65</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::display</FUNCTION>
+    <DECORATED>?display@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>59</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'Koe::display' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Koe::display</FUNCTION>
+    <DECORATED>?display@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>59</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'max_' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'x' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'y' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>76</LINE>
+      <COLUMN>29</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>80</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>93</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>84</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>75</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26400</DEFECTCODE>
+    <DESCRIPTION>Do not assign the result of an allocation or a function call with an owner&lt;T&gt; return value to a raw pointer, use owner&lt;T&gt; instead (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>96</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>96</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::available</FUNCTION>
+    <DECORATED>?available@Koe@@QEAAXHHAEAV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@@Z</DECORATED>
+    <FUNCLINE>72</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>110</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>113</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class Koe', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>101</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>107</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>110</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>113</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26477</DEFECTCODE>
+    <DESCRIPTION>Use 'nullptr' rather than 0 or NULL (es.47).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;number)[i]'. 'this.Koe::number' may have been invalidated at line 104 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: 'this-&gt;number'. 'this.Koe::number' may have been invalidated at line 104 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;number)[i]'. 'this.Koe::number' may have been invalidated at line 104 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;number)[i]'. '{InvalidLoc}' may have been invalidated at line 104 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 2' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(void *)allotemp.2'. 'temporary 2' may have been invalidated at line 104 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 1' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(void *)allotemp.1'. 'temporary 1' may have been invalidated at line 104 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>104</LINE>
+        <COLUMN>25</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>110</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;block)[i]'. 'this.Koe::block' may have been invalidated at line 115 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: 'this-&gt;block'. 'this.Koe::block' may have been invalidated at line 115 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;block)[i]'. 'this.Koe::block' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;block)[i]'. '{InvalidLoc}' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;block)[i]'. 'this.Koe::block' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '((int **)(this-&gt;block)[i])[j]'. 'this.Koe::block' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '((int **)(this-&gt;block)[i])[j]'. '{InvalidLoc}' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>113</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(this-&gt;number)[j]'. 'this.Koe::number' may have been invalidated at line 105 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>105</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 5' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(void *)allotemp.5'. 'temporary 5' may have been invalidated at line 115 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>117</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 4' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(void *)allotemp.4'. 'temporary 4' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>115</LINE>
+        <COLUMN>4</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26486</DEFECTCODE>
+    <DESCRIPTION>Don't pass a pointer that may be invalid to a function. Parameter 1 'temporary 3' in call to 'operator delete' may be invalid (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26489</DEFECTCODE>
+    <DESCRIPTION>Don't dereference a pointer that may be invalid: '(void *)allotemp.3'. 'temporary 3' may have been invalidated at line 114 (lifetime.1).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+        <FILENAME>koe.cpp</FILENAME>
+        <LINE>114</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>105</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>104</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>117</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>115</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26401</DEFECTCODE>
+    <DESCRIPTION>Do not delete a raw pointer that is not an owner&lt;T&gt; (i.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>114</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>Koe::{dtor}</FUNCTION>
+    <DECORATED>??1Koe@@QEAA@XZ</DECORATED>
+    <FUNCLINE>99</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>129</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>129</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>152</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>152</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>140</LINE>
+      <COLUMN>48</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>128</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>128</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::deduce</FUNCTION>
+    <DECORATED>?deduce@Koe@@QEAAHV?$queue@HV?$deque@HV?$allocator@H@std@@@std@@@std@@0@Z</DECORATED>
+    <FUNCLINE>121</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>160</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'answers' is assigned only once, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>158</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_deal_wait2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>161</LINE>
+      <COLUMN>19</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_unsolved': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>164</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_ans1_1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>164</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_ans1_2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>165</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_ans2_1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>165</LINE>
+      <COLUMN>41</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_ans2_2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>169</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_ans3_1': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>169</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_ans1_2': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::start</FUNCTION>
+    <DECORATED>?start@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>156</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>184</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>184</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>198</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>198</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>198</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>198</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>200</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_koe_row': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>200</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>200</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>203</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>203</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>203</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>203</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_koe_column': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>205</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>221</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>223</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_koe_block': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>223</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>223</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>189</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Error_fake_sudoku': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>189</LINE>
+      <COLUMN>52</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_check_content': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>231</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26485</DEFECTCODE>
+    <DESCRIPTION>Expression 'Tip_koe_checked': No array to pointer decay (bounds.3).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>176</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'b_x' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>177</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'rgt' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>176</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'b_y' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>177</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'lft' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>175</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'j' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>178</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'btm' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>178</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Variable 'top' is uninitialized. Always initialize an object (type.5).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\计算机\编程\vs code\cnblogs_work\sudoku\sudoku</FILEPATH>
+      <FILENAME>koe.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26493</DEFECTCODE>
+    <DESCRIPTION>Don't use C-style casts (type.4).</DESCRIPTION>
+    <FUNCTION>Koe::check</FUNCTION>
+    <DECORATED>?check@Koe@@QEAAXXZ</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
